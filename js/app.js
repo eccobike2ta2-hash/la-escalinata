@@ -2,7 +2,7 @@
    LA ESCALINATA — app.js
    ========================================================================== */
 
-const GOOGLE_SHEETS_URL = "https://docs.google.com/spreadsheets/d/e/2PACX-1vQd6dWPINt3RRD_Ttx4S9n2ncALrHFl2k8E4qAB6bqsAH6NmzCjURunilyldWJrb5lVMTMr94ahRgEv/pub?gid=0&single=true&output=tsv";
+https://docs.google.com/spreadsheets/d/e/2PACX-1vR23mntdtU-lIvdRc_RfN1xoacbophCeiRTcR0ohJ10Fw5l8--KHk2SY9IZpHwWP7rbQFRW6npcQjUh/pub?gid=606259516&single=true&output=tsv
 
 const CATEGORIA_EMOJIS = {
   "carnes":             "🥩",
